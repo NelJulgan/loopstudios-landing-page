@@ -1,0 +1,15 @@
+{
+  "name": "loopstudios-landingpage",
+  "version": "1.0.0",
+  "description": "![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "homepage": "https://neljulgan.github.io/loopstudios-landing-page/",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
